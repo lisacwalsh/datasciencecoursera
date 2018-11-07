@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541635023096.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3398810732",
+    "id" : "512DCBFF",
+    "lastKnownWriteTime" : 1541635053,
+    "last_content_update" : 1541635053512,
+    "path" : "~/datasciencecoursera/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+        "cursorPosition" : "0,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
